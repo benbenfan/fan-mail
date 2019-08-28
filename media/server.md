@@ -1,4 +1,4 @@
-# Database Header
+## Database Header
 C:\Data> mysql –u <username> -p
 create database
 
