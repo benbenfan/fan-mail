@@ -3,26 +3,24 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 5s linear;
   height: 40vmin;
   pointer-events: none;
 }
 
 .App-header {
-  background-color: #05386B;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #EDF5E1;
+  color: white;
 }
 
 .App-link {
-  color: #5CDB95;
-
-  /*https://visme.co/blog/website-color-schemes/ 379683 8EE4AF */
+  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
